@@ -31,7 +31,7 @@ Then verify displayed Project Explorer Label in project explorer
 When I entered Project name in create project as '<Project name1>'
 And I copied text Project name in create project
 And I selected Create in create project
-#Then verify content Project created successfully popup in create project as '<Project created successfully popup>'
+Then verify content Project created successfully popup in create project as '<Project created successfully popup>'
 When I click if visible React tour Skip button in algoqa
 And I wait in seconds for sometime in project explorer as '<for sometime2>'
 Then verify displayed Canvas Page in canvas

@@ -2,7 +2,7 @@
 <ApplicationSettings>
     <URL>https://staging.algoshack.net/</URL>
     <APIURL/>
-    <BrowserType>Chrome</BrowserType>
+    <BrowserType>Headless Chrome</BrowserType>
     <EnableDebugLog>False</EnableDebugLog>
     <WebdriverPath>Na</WebdriverPath>
     <PrintTextInConsole>False</PrintTextInConsole>
@@ -27,7 +27,7 @@
     <LambdaTestBuild/>
     <LambdaTestURL/>
     <NetworkLog>False</NetworkLog>
-    <Token>eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjI1ODAsInByb2plY3RJZCI6MTY2MzYsInVzZXJOYW1lIjoiU3JlZWthbnRoIiwiYmFzZVVybCI6Imh0dHBzOi8vYWxnb3NoYWNrLm5ldCIsImlhdCI6MTcyNzg1MTA5NH0.Ny6jSTGulmn2MBUy0I4QgatjKe1U6TIlMHN51NfzSAs</Token>
+    <Token>eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjI1ODAsInByb2plY3RJZCI6MTY2MzYsInVzZXJOYW1lIjoiU3JlZWthbnRoIiwiYmFzZVVybCI6Imh0dHBzOi8vYWxnb3NoYWNrLm5ldCIsImlhdCI6MTcyNzg1MjkzNH0.Yi5OUeULyDlcaPC6H07WqroDujCrA7UI9azk_oQM6sU</Token>
     <UserName>Sreekanth</UserName>
     <AutoHealing>False</AutoHealing>
     <EnablePercy>yes</EnablePercy>
