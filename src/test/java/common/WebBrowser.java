@@ -398,7 +398,7 @@ public class WebBrowser {
 			ChromeOptions options = new ChromeOptions();
 			if (browserType.toUpperCase().equals("HEADLESS CHROME")) {
 				options.addArguments("--no-sandbox"); // Bypass OS security model
-				options.addArguments("--headless"); // headless -> no browser window. needed for jenkins
+				options.addArguments("--headless=old"); // headless -> no browser window. needed for jenkins
 				options.addArguments("disable-infobars"); // disabling infobars
 				options.addArguments("--disable-extensions"); // disabling extensions
 				options.addArguments("--disable-dev-shm-usage"); // overcome limited resource problems
